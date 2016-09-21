@@ -11,4 +11,10 @@ package com.toy.anagrams.lib;
  */
 public class NouFitxer {
     
+    public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("Hola mundo");
+        System.out.println("BULLYING");
+        System.out.println("Adios mundo cruel");
+    }
 }
